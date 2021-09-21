@@ -1,6 +1,7 @@
 import Phone_book_module
 
 print ()
+#Verabils
 c1 = Phone_book_module.p1
 c2 = Phone_book_module.p2
 c3 = Phone_book_module.p3
@@ -19,6 +20,7 @@ Ad3 = Phone_book_module.ad3
 Ad4 = Phone_book_module.ad4
 Ad5 = Phone_book_module.ad5
 
+#User Input: depending on what the people pick one of the lines will be used
 lookup1 = (input("Who are you looking for "))
 
 if lookup1 == "c1":
